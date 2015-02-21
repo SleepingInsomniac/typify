@@ -1,4 +1,3 @@
-
 class Typify
   
   VOWELS = "aeiou"
